@@ -1,2 +1,5 @@
-# processamento-documentos-sql
-Processamento Documentos SQL
+import os
+
+# Verificar o diretório atual
+print("Diretório atual:", os.getcwd())
+L
